@@ -1,4 +1,5 @@
 {
-  "ECU": 0,
-  "Test": 1
+  "_comment": "1=true, 0=false",
+  "ECU": 1,
+  "Test": 0
 }
